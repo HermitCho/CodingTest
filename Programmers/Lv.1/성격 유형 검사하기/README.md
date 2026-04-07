@@ -3,7 +3,7 @@
 | 분류 | 링크 |
 | :--- | :--- |
 | **문제 주소** | [Programmers '성격 유형 검사하기'](https://school.programmers.co.kr/learn/courses/30/lessons/118666) |
-| **Notion** | [My Notion Note]() |
+| **Notion** | [My Notion Note](https://www.notion.so/33bff16b753380b1bf34c8c8eb6e3fa7) |
 
 ---
 
